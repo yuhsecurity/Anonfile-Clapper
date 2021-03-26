@@ -1,0 +1,10 @@
+D:\github\Anonfile-Clapper\Anonfile Clapper\bin\Debug\Anonfile Clapper.exe.config
+D:\github\Anonfile-Clapper\Anonfile Clapper\bin\Debug\Anonfile Clapper.exe
+D:\github\Anonfile-Clapper\Anonfile Clapper\bin\Debug\Anonfile Clapper.pdb
+D:\github\Anonfile-Clapper\Anonfile Clapper\bin\Debug\Colorful.Console.dll
+D:\github\Anonfile-Clapper\Anonfile Clapper\bin\Debug\Newtonsoft.Json.dll
+D:\github\Anonfile-Clapper\Anonfile Clapper\bin\Debug\Newtonsoft.Json.xml
+D:\github\Anonfile-Clapper\Anonfile Clapper\obj\Debug\Anonfile Clapper.csproj.CoreCompileInputs.cache
+D:\github\Anonfile-Clapper\Anonfile Clapper\obj\Debug\Anonfile Clapper.csproj.CopyComplete
+D:\github\Anonfile-Clapper\Anonfile Clapper\obj\Debug\Anonfile Clapper.exe
+D:\github\Anonfile-Clapper\Anonfile Clapper\obj\Debug\Anonfile Clapper.pdb

@@ -1,0 +1,10 @@
+C:\Users\zakis\Downloads\vAnonSniper-master\vAnonSniper-master\vAnonSniper\obj\Release\vAnonSniper.csproj.CoreCompileInputs.cache
+C:\Users\zakis\Downloads\vAnonSniper-master\vAnonSniper-master\vAnonSniper\bin\Release\Anonfile Clapper.exe.config
+C:\Users\zakis\Downloads\vAnonSniper-master\vAnonSniper-master\vAnonSniper\bin\Release\Anonfile Clapper.exe
+C:\Users\zakis\Downloads\vAnonSniper-master\vAnonSniper-master\vAnonSniper\bin\Release\Anonfile Clapper.pdb
+C:\Users\zakis\Downloads\vAnonSniper-master\vAnonSniper-master\vAnonSniper\bin\Release\Colorful.Console.dll
+C:\Users\zakis\Downloads\vAnonSniper-master\vAnonSniper-master\vAnonSniper\bin\Release\Newtonsoft.Json.dll
+C:\Users\zakis\Downloads\vAnonSniper-master\vAnonSniper-master\vAnonSniper\bin\Release\Newtonsoft.Json.xml
+C:\Users\zakis\Downloads\vAnonSniper-master\vAnonSniper-master\vAnonSniper\obj\Release\vAnonSniper.csproj.CopyComplete
+C:\Users\zakis\Downloads\vAnonSniper-master\vAnonSniper-master\vAnonSniper\obj\Release\Anonfile Clapper.exe
+C:\Users\zakis\Downloads\vAnonSniper-master\vAnonSniper-master\vAnonSniper\obj\Release\Anonfile Clapper.pdb
