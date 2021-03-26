@@ -2,6 +2,7 @@ Fixed & Improved Version of Valkoar's Anonfile Sniper
 -----------------------------------------------------
 Changelog:
 Removed cracked.to auth & hwid checking
+Removed un-needed "using" statements
 Fixed search modifer used to find anonfile uploads
 
 Plans:
